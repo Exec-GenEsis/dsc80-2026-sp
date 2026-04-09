@@ -16,6 +16,7 @@ days:
     type: lab
     title: More Pandas
     reading: ''
+    blank: https://github.com/dsc-courses/dsc80-2026-sp/blob/main/labs/lab02/lab.ipynb
 - date: '2026-04-16'
   events:
   - name: LEC 6
